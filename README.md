@@ -8,4 +8,4 @@ This is the remake of vintage game Pong in Python 3 for beginners
 ## How to run?
 `python Pong.py`
 
-![output](output.png | width=100)
+![output](output.PNG)
